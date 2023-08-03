@@ -11,5 +11,5 @@ let alienShip = { //Object
   }
 };
 
-alienShip.retreat(); // Method call Object
+alienShip.retreat(); // Method call on Object
 alienShip.takeOff();
